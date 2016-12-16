@@ -23,7 +23,7 @@ export const API = {
             {
               id: 1,
               title: "L'Égypte antique",
-              text: `Nous sommes en l’an 3150 avant Jésus-Christ. Une nouvelle civilisation vient de naître dans le monde : la civilisation égyptienne. Les Égyptiens sont un peuple d’Afrique du Nord qui vit autour du Nil, l’un des plus grand fleuves du monde (1 400 km). Le Nil est l’un des rares fleuves à couler du Sud vers le Nord. \n\nLes égyptiens sont connus dans le monde entier pour être les inventeurs des hiéroglyphes, l’écriture de la langue égyptienne antique. Ce sont des symboles qui permettaient de faciliter le marché et la récolte des impôts par l’État. Il existe plus de 500 hiéroglyphes qui représentent un mot, un son ou une situation.`,
+              text: `Nous sommes en l’an 3150 avant Jésus-Christ. Une nouvelle civilisation vient de naître dans le monde : la civilisation égyptienne. Les Égyptiens sont un peuple d’Afrique du Nord qui vit autour du Nil, l’un des plus grands fleuves du monde (1 400 km). Le Nil est l’un des rares fleuves à couler du Sud vers le Nord. \n\nLes égyptiens sont connus dans le monde entier pour être les inventeurs des hiéroglyphes, l’écriture de la langue égyptienne antique. Ce sont des symboles qui permettaient de faciliter le marché et la récolte des impôts par l’État. Il existe plus de 500 hiéroglyphes qui représentent un mot, un son ou une situation.`,
               image: 'https://s30.postimg.org/ap0q30aqp/egypt.jpg',
               content: [
                 {
@@ -64,7 +64,7 @@ export const API = {
             {
               id: 2,
               title: 'La mythologie égyptienne',
-              text: 'Il faut aussi savoir que la religion était extrêmement importante chez les égyptiens. Leur religion était polythéiste, elle possèdait donc de nombreux dieux. Les plus importants sont Ra, Anubis, Horus, Isis ou encore Seth. Les Égyptiens croyaient en l’immortalité de l’âme et ont donc créé de nombreux temples à la gloire des différents Dieux, ainsi que des pyramides, symboles de l’élévation de l’âme.',
+              text: 'Il faut aussi savoir que la religion était extrêmement importante chez les égyptiens. Leur religion était polythéiste, elle possédait donc de nombreux dieux. Les plus importants sont Ra, Anubis, Horus, Isis ou encore Seth. Les Égyptiens croyaient en l’immortalité de l’âme et ont donc créé de nombreux temples à la gloire des différents Dieux, ainsi que des pyramides, symboles de l’élévation de l’âme.',
               image: 'https://s29.postimg.org/fmqlwai8n/gods.jpg',
               content: [
                 {
@@ -96,7 +96,7 @@ export const API = {
             {
               id: 3,
               title: 'Les pharaons',
-              text: `La personne qui dirigeait l’ensemble des égyptiens est un Pharaon. On dit alors qu’il tire son pouvoir directement des Dieux et qu’il est l’un de leurs descendants. Le pharaon est le symbole du pouvoir et de l’unité de la population. Parmis les plus connus nous avons : Imhotep, Toutânkhamon ou encore Ramsès II. Au total, les pharaons ont fait construire 90 pyramides en Egypte. \n\n C’est en l’an 2550 avant Jésus Christ, en Egypte, que le nouveau pharaon Khéops entre au pouvoir, succédant à son père Snéfrou. C’est dès son entrée au pouvoir qu’il décide de lancer la construction de sa propre Pyramide. La Pyramide de Khéops reste encore aujourd’hui l’une des construction les plus imposantes au monde.`,
+              text: `La personne qui dirigeait l’ensemble des égyptiens est un Pharaon. On dit alors qu’il tire son pouvoir directement des Dieux et qu’il est l’un de leurs descendants. Le pharaon est le symbole du pouvoir et de l’unité de la population. Parmis les plus connus nous avons : Imhotep, Toutânkhamon ou encore Ramsès II. Au total, les pharaons ont fait construire 90 pyramides en Egypte. \n\n C’est en l’an 2550 avant Jésus Christ, en Egypte, que le nouveau pharaon Khéops entre au pouvoir, succédant à son père Snéfrou. C’est dès son accession au pouvoir qu’il décide de lancer la construction de sa propre pyramide. La Pyramide de Khéops reste encore aujourd’hui l’une des constructiosn les plus imposantes au monde.`,
               image: 'https://s30.postimg.org/9xhuwe1nl/pharaons.jpg',
               content: [
                 {
@@ -181,7 +181,7 @@ export const API = {
             {
               id: 6,
               title: "La pyramide aujourd'hui",
-              text: 'Bien qu’elle soit toujours debout, la pyramide de Khéops a perdu plusieurs blocs à son sommet ainsi que son revêtement en calcaire qui lui donnait une couleur plutôt blanche. La pyramide de Khéops est le plus vieux monument du monde et a été ajouté au classement des 7 Merveilles du monde antique dont elle est la seule à être encore debout. Elle fait maintenant partie des 7 nouvelles Merveilles du monde aux côtés du Colisée de Rome et de la Grande muraille de Chine.',
+              text: 'Bien qu’elle soit toujours debout, la pyramide de Khéops a perdu plusieurs blocs à son sommet ainsi que son revêtement en calcaire qui lui donnait une couleur blanchâtre. La pyramide de Khéops est le plus vieux monument du monde et a été ajouté au classement des 7 Merveilles du monde antique dont elle est la seule à être encore debout. Elle fait maintenant partie des 7 nouvelles Merveilles du monde aux côtés du Colisée de Rome et de la Grande muraille de Chine par exemple.',
               image: 'https://s28.postimg.org/jgcw5dx19/1157874381.jpg',
               content: [
                 {
@@ -275,7 +275,7 @@ export const API = {
           image: 'https://i.ytimg.com/vi/kRTPugHpUho/maxresdefault.jpg',
           name: "Le phare d'Alexandrie",
           period: 'antiquity',
-          description: 'Cette tour imposante était l’un des premier phare au monde et une prouesse technologique pour l’époque !',
+          description: 'Cette tour imposante était l’un des premiers phares au monde et une prouesse technologique pour l’époque !',
           duration: 20,
           nbPages: 35,
           availability: '22/12',
@@ -297,7 +297,7 @@ export const API = {
           image: 'https://s23.postimg.org/otellv1ez/mozart_wolfgang_amadeus_527a7a17c1157.jpg',
           name: 'Wolfgang Amadeus Mozart',
           period: 'modernTimes',
-          description: 'Va à la rencontre de Mozart, l’enfant prodige de la musique classique en découvrant la grandeur de son Oeuvre !',
+          description: 'Va à la rencontre de Mozart, l’enfant prodige de la musique classique en découvrant la grandeur de son oeuvre !',
           duration: 20,
           nbPages: 35,
           availability: '24/12',
